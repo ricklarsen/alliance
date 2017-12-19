@@ -14,15 +14,15 @@
 
 |http://www.gwg.nga.mil/ntb/baseline/docs/2500c/index.html[NITF 2.0 and 2.1]
 |ntf
-|<<_file_formats_supported,Standard attributes>> and<<_nitf_attribute_mappings,NITF Attribute Mappings>>
+|<<_file_formats_supported,Standard attributes>> and <<_nitf_attribute_mappings,NITF Attribute Mappings>>
 
 |http://www.gwg.nga.mil/ntb/baseline/docs/NSIF/[NSIF/STANAG 4545]
 |ntf
-|<<_file_formats_supported,Standard attributes>> and<<_nitf_attribute_mappings,NITF Attribute Mappings>>
+|<<_file_formats_supported,Standard attributes>> and <<_nitf_attribute_mappings,NITF Attribute Mappings>>
 
 |http://www.gwg.nga.mil/misb/docs/nato_docs/STANAG_4609_Ed3.pdf[STANAG 4609 FMV]
 |fmv
-<<_file_formats_supported,Standard attributes>>
+|<<_file_formats_supported,Standard attributes>>
 
 |UK MGMPv2
 |MGMP
