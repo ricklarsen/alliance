@@ -1,8 +1,7 @@
 :title: NITF Profile For Imagery Access Product (PIAPRD) TRE Attribute Mappings
 :type: subAppendix
 :order: 014
-:parent: Format-specific Attribute Mappings
-:status: published
+:parent: Catalog Taxonomy Attribute Mappings
 :summary: NITF Profile For Imagery Access Product (PIAPRD) TRE Attribute Mappings.
 
 .NITF Profile For Imagery Access Product (PIAPRD) TRE Attribute Mappings

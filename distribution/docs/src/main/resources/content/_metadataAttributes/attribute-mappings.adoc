@@ -1,0 +1,11 @@
+:title: Catalog Taxonomy Attribute Mappings
+:type: appendix
+:status: published
+:parent: Metadata Attributes
+:order: 021
+:summary: Catalog taxonomy attribute Mappings.
+
+== {title}
+
+nitf to taxonomy
+nsili to taxonomy

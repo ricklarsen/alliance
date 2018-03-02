@@ -1,12 +1,14 @@
 :title: General NITF Attribute Mappings
 :type: subAppendix
 :order: 000
-:parent: Format-specific Attribute Mappings
+:parent: Catalog Taxonomy Attribute Mappings
 :status: published
 :summary: General NITF Attribute Mappings.
 
 // all NITF mapping tables should live under this section
 == NITF Attribute Mappings
+
+${branding} uses default values for general attributes unless overridden.
 
 .General NITF Attribute Mappings
 [cols="2" options="header"]
@@ -15,28 +17,28 @@
 |Term
 |Value
 
-|media.type
+|<<media.type,media.type>>
 |image/nitf
 
-|metadata-content-type
+|<<metadata-content-type,metadata-content-type>>
 |image/nitf
 
-|datatype
+|<<datatype,datatype>>
 |Image
 
-|isr.comments
+|<<isr.comments,isr.comments>>
 |ImageSegment.ICOM1 + ImageSegment.ICOM2 + ImageSegment.ICOM3
 
-|effective
+|<<effective,effective>>
 |Earliest ImageSegment.IDATIM time found in the segments
 
-|datetime.start
+|<<datetime.start,datetime.start>>
 |Earliest ImageSegment.IDATIM time found in the segments
 
-|datetime.end
+|<<datetime.end,datetime.end>>
 |Latest NitfHeader.FDT time found in the segments
 
-|location
+|<<location,location>>
 |A multi polygon consisting of  all of the ImageSegment.ICORDS
 
 |===
