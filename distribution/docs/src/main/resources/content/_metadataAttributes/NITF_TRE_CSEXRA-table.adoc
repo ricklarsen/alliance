@@ -1,7 +1,7 @@
 :title: NITF Exploitation Reference Data (CSEXRA) TRE Attribute Mappings
 :type: subAppendix
 :order: 010
-:parent: Format-specific Attribute Mappings
+:parent: Catalog Taxonomy Attribute Mappings
 :status: published
 :summary: NITF Exploitation Reference Data (CSEXRA) TRE Attribute Mappings.
 
@@ -19,7 +19,7 @@
 |0 -> false +
 1 -> true +
 else null
-|isr.snow-cover
+|<<isr.snow-cover,isr.snow-cover>>
 |Boolean
 |false
 
@@ -33,7 +33,7 @@ else null
 
 |Tre.CSEXRA.PREDICTED_NIIRS
 |parses double out of string else (or unable to parse) null
-|isr.niirs
+|<<isr.niirs,isr.niirs>>
 |Float
 |false
 
@@ -49,7 +49,7 @@ else null
 2 -> 22.86 +
 3 -> 43.18 +
 else null
-|isr.snow-depth-min-centimeters
+|<<isr.snow-depth-min-centimeters,isr.snow-depth-min-centimeters>>
 |Float
 |false
 
@@ -69,7 +69,7 @@ else null
 2 -> 43.18 +
 3 -> MAX FLOAT +
 else null
-|isr.snow-depth-max-centimeters
+|<<isr.snow-depth-max-centimeters,isr.snow-depth-max-centimeters>>
 |Float
 |false
 
@@ -187,7 +187,7 @@ else null
 
 |Tre.CSEXRA.AZ_OF_OBLIQUITY
 |none
-|ext.nitf.csexra.azimuth-obliquity
+|ext.nitf.csexra.azimuth-obliquity,ext.nitf.csexra.azimuth-obliquity
 |Float
 |true
 

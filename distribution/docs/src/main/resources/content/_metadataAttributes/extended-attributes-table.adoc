@@ -1,13 +1,13 @@
-:title: Extended Attributes Table
+:title: ISR Extended Attributes
 :type: subAppendix
 :order: 112
-:parent: Catalog Taxonomy
+:parent: Catalog Taxonomy Definitions
 :status: published
 :summary: Attributes in this group relate to intelligence, search, and reconnaissance.
 
 == {title}
 
-.Extended Attributes: Attributes in this group relate to intelligence, search, and reconnaissance. *Injected by default.*
+.ISR Extended Attributes: Attributes in this group relate to intelligence, search, and reconnaissance. *Injected by default.*
 [cols="1,2,1,1,1" options="header"]
 |===
 |Term
@@ -16,64 +16,65 @@
 |Constraints
 |Example Value
 
-|ext.metadata-originator-classification
+|[[ext.metadata-originator-classification]]ext.metadata-originator-classification
 |Attribute name for accessing the metadata originator classification.
 |String
 |
 |
 
-|ext.metadata-classification
+|[[ext.metadata-classification]]ext.metadata-classification
 |Attribute name for accessing the metadata classification.
 |String
 |
 |
 
-|ext.metadata-classification-system
+|[[ext.metadata-classification-system]]ext.metadata-classification-system
 |Attribute name for accessing the security classification system for the metadata.
 |String
 |
 |
 
-|ext.metadata-dissemination-controls
+|[[ext.metadata-dissemination-controls]]ext.metadata-dissemination-controls
 |Attribute name for accessing the metadata dissemination controls.
 |String
 |
 |
 
-|ext.metadata-releasability
+|[[ext.metadata-releasability]]ext.metadata-releasability
 |Attribute name for accessing the metadata releasability.
 |String
 |
 |
 
-|ext.resource-releasability
+|[[ext.resource-releasability]]ext.resource-releasability
 |Attribute name for accessing the resource releasability.
 |String
 |
 |
 
-|ext.resource-originator-classification
+|[[ext.resource-originator-classification]]ext.resource-originator-classification
 |Attribute name for accessing the resource originator classification.
 |String
 |
 |
 
-|ext.resource-dissemination-controls
+|[[ext.resource-dissemination-controls]]ext.resource-dissemination-controls
 |Attribute name for accessing the resource dissemination controls.
 |String
 |
 |
 
-|ext.resource-classification-system
+|[[ext.resource-classification-system]]ext.resource-classification-system
 |Attribute name for accessing the security classification system for the resource.
 |String
 |
 |
 
-|ext.resource-classification
+|[[ext.resource-classification]]ext.resource-classification
 |Attribute name for accessing the resource classification.
 |String
 |
 |
 
 |===
+

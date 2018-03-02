@@ -1,7 +1,7 @@
 :title: NITF Symbol Segment Attribute Mappings
 :type: subAppendix
 :order: 005
-:parent: Format-specific Attribute Mappings
+:parent: Catalog Taxonomy Attribute Mappings
 :status: published
 :summary: NITF Symbol Segment Attribute Mappings.
 

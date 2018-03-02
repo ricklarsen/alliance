@@ -1,7 +1,7 @@
 :title: NITF Profile For Imagery Access Image Support Extensions (PIAIMC) TRE Attribute Mappings
 :type: subAppendix
 :order: 014
-:parent: Format-specific Attribute Mappings
+:parent: Catalog Taxonomy Attribute Mappings
 :status: published
 :summary: NITF Profile For Imagery Access Image Support Extensions (PIAIMC) TRE Attribute Mappings.
 
@@ -18,7 +18,7 @@
 |Tre.PIAIMC.CLOUDCVR
 |values 0-100 +
 else null
-|isr.cloud-cover
+|<<isr.cloud-cover,isr.cloud-cover>>
 |Double
 |false
 

@@ -1,0 +1,10 @@
+:title: Catalog Taxonomy Attribute Mappings
+:type: appendix
+:status: published
+:parent: Metadata Attributes
+:order: 021
+:summary: Catalog taxonomy attribute Mappings.
+
+== {title}
+
+These tables show the mappings between the Catalog Taxonomy and popular metadata standards.

@@ -1,7 +1,7 @@
 :title: NITF Dataset Identification (CSDIDA) TRE Attribute Mappings
 :type: subAppendix
 :order: 009
-:parent: Format-specific Attribute Mappings
+:parent: Catalog Taxonomy Attribute Mappings
 :status: published
 :summary: NITF Dataset Identification (CSDIDA) TRE Attribute Mappings.
 
@@ -17,7 +17,7 @@
 
 |Tre.CSDIDA.PLATFORM_CODE_VEHICLE_ID
 |null if either platform code or vehicle id is empty
-|isr.platform-id
+|<<isr.platform-id,isr.platform-id>>
 |String
 |false
 

@@ -1,7 +1,7 @@
 :title: NITF Exploitation Related Information (EXPLTB) TRE Attribute Mappings
 :type: subAppendix
 :order: 011
-:parent: Format-specific Attribute Mappings
+:parent: Catalog Taxonomy Attribute Mappings
 :status: published
 :summary: NITF Exploitation Related Information (EXPLTB) TRE Attribute Mappings.
 

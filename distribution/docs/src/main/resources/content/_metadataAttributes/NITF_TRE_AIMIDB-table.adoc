@@ -1,7 +1,7 @@
 :title: NITF Airborne Image Identification (AIMIDB) TRE Attribute Mappings
 :type: subAppendix
 :order: 008
-:parent: Format-specific Attribute Mappings
+:parent: Catalog Taxonomy Attribute Mappings
 :status: published
 :summary: NITF Airborne Image Identification (AIMIDB) TRE Attribute Mappings.
 
