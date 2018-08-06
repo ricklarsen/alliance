@@ -16,7 +16,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.codice</groupId>
     <artifactId>alliance</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Alliance</name>
     <description>Codice Alliance</description>
@@ -140,7 +140,7 @@ This Feature has been *DEPRECATED* and will be removed in a future version.
         <url>https://github.com/codice/alliance</url>
         <connection>scm:git:https://github.com/codice/alliance.git</connection>
         <developerConnection>scm:git:https://github.com/codice/alliance.git</developerConnection>
-        <tag>alliance-1.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <dependencyManagement>
         <dependencies>
