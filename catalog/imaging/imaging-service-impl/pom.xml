@@ -17,7 +17,7 @@
     <parent>
         <artifactId>imaging</artifactId>
         <groupId>org.codice.alliance.imaging</groupId>
-        <version>1.1.0-SNAPSHOT</version>
+        <version>1.1.0</version>
     </parent>
 
     <artifactId>imaging-service-impl</artifactId>
@@ -54,7 +54,7 @@
                         <Embed-Dependency>
                                 la4j
                         </Embed-Dependency>
-                        <Export-Package/>
+                        <Export-Package />
                         <Import-Package>
                             org.codice.alliance.imaging.chip.service.api,
                             com.vividsolutions.jts.geom
