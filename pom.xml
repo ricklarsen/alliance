@@ -59,6 +59,7 @@
         <httpcore.version>4.4.6</httpcore.version>
         <httpclient.version>4.5.5</httpclient.version>
         <javax.ws.rs.version>2.1</javax.ws.rs.version>
+        <moment.version>2.20.1</moment.version>
         <!-- output directory for reports -->
         <project.report.output.directory>project-info</project.report.output.directory>
         <joda-time.version>2.9.9</joda-time.version>

@@ -129,7 +129,6 @@
 * org.webjars.bower:jquery-ui:jar:1.10.4
 * org.webjars.bower:jquery:jar:1.11.0
 * org.webjars.bower:lodash:jar:2.4.1
-* org.webjars.bower:moment:jar:2.18.1
 * org.webjars.bower:moment:jar:2.20.1
 * org.webjars.bower:require-css:jar:0.1.5
 * org.webjars.bower:requirejs-plugins:jar:1.0.2
