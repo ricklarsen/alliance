@@ -17,7 +17,7 @@
     <parent>
         <groupId>org.codice.alliance</groupId>
         <artifactId>distribution</artifactId>
-        <version>1.1.5-SNAPSHOT</version>
+        <version>1.1.5</version>
     </parent>
     <groupId>org.codice.alliance.distribution</groupId>
     <artifactId>alliance</artifactId>
@@ -298,7 +298,11 @@
                         </goals>
                         <configuration>
                             <target>
-                                <concat destfile="${project.basedir}/target/dependencies/ddf-kernel-${ddf.version}/etc/custom.system.properties" append="true">&#10;default.nitf.thread.count=3&#10;&#10;# Set the default port number for the catalog-ftp feature FTP endpoint&#10;org.codice.alliance.corba_default_port=2809</concat>
+                                <concat destfile="${project.basedir}/target/dependencies/ddf-kernel-${ddf.version}/etc/custom.system.properties" append="true">
+default.nitf.thread.count=3
+
+# Set the default port number for the catalog-ftp feature FTP endpoint
+org.codice.alliance.corba_default_port=2809</concat>
                             </target>
                         </configuration>
                     </execution>
