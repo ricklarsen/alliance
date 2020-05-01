@@ -52,7 +52,7 @@
         <!--default url substitutions: preface with a \ to disable automatic hyperlinking-->
         <public_url>http://{FQDN}:{PORT}</public_url>
         <secure_url>https://{FQDN}:{PORT}</secure_url>
-        <home_directory>&lt;ALLIANCE_HOME&gt;</home_directory>
+        <home_directory>&lt;ALLIANCE_HOME></home_directory>
         <!--Needed for documentation formatting-->
         <at-symbol>@</at-symbol>
         <variable-prefix>${</variable-prefix>
@@ -137,7 +137,7 @@
         <asciidoctor.source.highlighter>coderay</asciidoctor.source.highlighter>
         <asciidoctorj.diagram.version>1.5.4.1</asciidoctorj.diagram.version>
         <asciidoctorj.pdf.version>1.5.0-alpha.16</asciidoctorj.pdf.version>
-        <asciidoctorj.version>1.5.6</asciidoctorj.version>
+        <asciidoctorj.version>1.6.2</asciidoctorj.version>
         <jruby.version>9.2.11.1</jruby.version>
 
         <camel.version>2.22.1</camel.version>
@@ -183,7 +183,7 @@
         <usng4j.version>0.1</usng4j.version>
         <xstream.version>1.4.9</xstream.version>
         <!-- Command line argument properties for the maven-surefire-plugin -->
-        <surefire.argline.append />
+        <surefire.argline.append/>
         <surefire.argline>${jacoco.argline} ${surefire.argline.append} -Xmx1024m -XX:MaxPermSize=256m -Djava.awt.headless=true -noverify -Duser.timezone=UTC -Dddf.version=${ddf.version}</surefire.argline>
     </properties>
 
